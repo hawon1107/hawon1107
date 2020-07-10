@@ -1,18 +1,18 @@
-### ✨ Hawon Shin ✨ 
+# ✨ Hawon Shin ✨ 
 
 👋 Hi! Weelcome to my GitHub place. I am a university student majoring in Computer Science.
 
-## 😄 Languages
+### 😄 Languages
 - Python (Intermediate)
 - Java (Intermediate)
 - C/C++ (Intermediate)
 - Javascript (Beginner)
 
 
-## ⚡ Fun fact abbout me
+### ⚡ Fun fact about me
 
 
-## 📫 How to reach me
+### 📫 How to reach me
 - linkedin:
 - facebook:
 - email:
