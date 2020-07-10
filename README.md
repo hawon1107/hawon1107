@@ -1,6 +1,6 @@
 # ✨ Hawon Shin ✨ 
 
-### 👋 Hi! Weelcome to my GitHub place. I am a university student majoring in Computer Science.
+👋 Hi! Weelcome to my GitHub place. I am a university student majoring in Computer Science.
 
 
 ### 😄 Languages
